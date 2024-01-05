@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **making me a better developer**
 
-- 💬 Ask me about what mistakes **learning multiple Programming Language**
+- 💬 Ask me about what mistakes I made **learning multiple Programming Language**
 
 - 📫 How to reach me: **shamel.rai@gmail.com**
 
