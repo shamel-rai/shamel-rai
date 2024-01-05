@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **with my buddy who guided me till here**
 
-- 🤝 I’m looking for help with **making me better developer**
+- 🤝 I’m looking for help with **making me a better developer**
 
 - 💬 Ask me about what mistakes **learning multiple Programming Language**
 
