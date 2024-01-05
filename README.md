@@ -2,7 +2,6 @@
 <h3 align="center">A Student who is ambitious in the field of technology and wants to gain hands on experience</h3>
 <img align="right" alt="coding-gif" width ="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526x98rddth62ie8ym2n57lqqmp2ycothw75p0nkbm&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamel-rai&label=Profile%20views&color=0e75b6&style=flat" alt="shamel-rai" /> </p>
 
 - 🔭 I’m currently working on learning **JavaScript**
@@ -13,12 +12,14 @@
 
 - 🤝 I’m looking for help with **making me a better developer**
 
-- 💬 Ask me about what mistakes I made **learning multiple Programming Language**
+- 💬 Ask me about what mistakes I've made **learning multiple Programming Language**
 
 - 📫 How to reach me: **shamel.rai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/https://www.facebook.com/shamel.rai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shamel.rai/" height="30" width="40" /></a>
+<a href="https://instagram.com/syntaxbuggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syntaxbuggg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
