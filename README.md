@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on learning **JavaScript**
 
-- 🌱 I’m currently learning **nodeJS, ExpressJS**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **with my buddy who guided me till here**
 
