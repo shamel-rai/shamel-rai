@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamel Rai</h1>
-<h3 align="center">A Student who is ambitious in the field of technology and wants to gain hands on experience</h3>
+<h3 align="center">Aspiring Frontend Developer and a Student</h3>
 <img align="right" alt="coding-gif" width ="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526x98rddth62ie8ym2n57lqqmp2ycothw75p0nkbm&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🔭 I’m currently working on learning **JavaScript**
@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on **with my buddy who guided me till here**
 
 - 🤝 I’m looking for help with **making me better developer**
-
-- 💬 Ask me about what mistakes **learning multiple Programming Language**
 
 - 📫 How to reach me: **shamel.rai@gmail.com**
 
