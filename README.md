@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shamel Rai</h1>
 <h3 align="center">Aspiring Backend Developer and a Student</h3>
-<img align="right" alt="coding-gif" width ="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526x98rddth62ie8ym2n57lqqmp2ycothw75p0nkbm&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding-gif" width ="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"&rid=200w.gif&ct=g">
 
-- 🌱 I’m currently learning ** MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate **with my friend who guided me till here**
 
@@ -15,7 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saw_maill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saw_maill" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shamel-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamel-rai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shamel-rai-248b06232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamel-rai-248b06232/" height="30" width="40" /></a>
+<a href="https://instagram.com/delusional_chigga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="delusional_chigga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
